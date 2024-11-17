@@ -3,8 +3,8 @@ layout: default
 title: Methodology Assignment 5
 ---
 
-**Name:**  
-**Email:**
+**Name:**  Andrew Zhao
+**Email:** yiz158@ucsd.edu
 
 **Section:** B09  
 **Mentor:** Hungjen Wang, Rinnie Han  
