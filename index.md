@@ -17,7 +17,7 @@ Market sentiment indicators is the most compelling topic. It can capture the emo
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 <br>
-We propose to experiment methods for identifying alpha in financial data. Our objective is to develop strategies that combine existing analytical tools to uncover predictive signals within extensive datasets. By integrating various perspectives and methodologies, we aim to enhance the accuracy of financial forecasts and contribute to more informed decision-making in the financial sector.
+We propose to experiment the effectiveness of combining structured financial metrics with contextual data, such as market events and sentiment indicators, to identify alpha. Our objective is to test specific integration methods, quantify their impact on prediction accuracy, and determine which perspectives or data combinations yield the most reliable insights for financial forecasting.
 
 **What is a potential change you would make to the approach taken in your current Quarter 1 Project?** 
 <br>
