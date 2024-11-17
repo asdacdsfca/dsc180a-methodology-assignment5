@@ -3,7 +3,8 @@ layout: default
 title: Methodology Assignment 5
 ---
 
-**Name:**  Andrew Zhao
+**Name:** Andrew Zhao
+
 **Email:** yiz158@ucsd.edu
 
 **Section:** B09  
